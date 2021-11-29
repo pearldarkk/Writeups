@@ -3,7 +3,7 @@
   
 ### Challenge
 Cháu ngoan Bác Hồ thì phải luôn ghi nhớ 19051890!  
-[ciphertext](/files/shiftNbases.txt)
+[ciphertext](/shiftNbases.txt)
   
 ### Writeup  
   
